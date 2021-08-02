@@ -79,7 +79,7 @@ p {
     border-radius: 2em;
 }
 
-@media (min-width:375px) and (max-width: 1439px) {
+@media (min-width:375px) and (max-width: 1299px) {
     .container {
         max-width: 500px;
 
@@ -87,7 +87,7 @@ p {
 }
 
 
-@media (min-width:1440px) {
+@media (min-width:1300px) {
     .row {
         display: flex;
     }
